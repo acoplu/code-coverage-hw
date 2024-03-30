@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d45d9b6f-1984-4a0f-894b-78cf82ff9fe3" name="Changes" comment="Update .gitignore to ignore .idea and target directories">
-      <change beforePath="$PROJECT_DIR$/my-app/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/pom.xml" afterDir="false" />
+    <list default="true" id="d45d9b6f-1984-4a0f-894b-78cf82ff9fe3" name="Changes" comment="Fix errors in pom.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/test/java/TestCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/test/java/TestCompute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/test/java/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/test/java/TestUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +65,8 @@
       <updated>1711825268215</updated>
       <workItem from="1711825269343" duration="1140000" />
       <workItem from="1711826413804" duration="91000" />
-      <workItem from="1711826847370" duration="338000" />
+      <workItem from="1711826847370" duration="495000" />
+      <workItem from="1711827363243" duration="1033000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -80,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711827029794</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fix errors in pom.xml">
+      <option name="closed" value="true" />
+      <created>1711827265667</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711827265667</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Update .gitignore to ignore .idea and target directories" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update .gitignore to ignore .idea and target directories" />
+    <MESSAGE value="Fix errors in pom.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix errors in pom.xml" />
   </component>
 </project>
